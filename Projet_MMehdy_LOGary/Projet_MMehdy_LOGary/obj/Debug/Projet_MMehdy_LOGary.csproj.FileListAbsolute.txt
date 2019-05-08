@@ -1,0 +1,10 @@
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\bin\Debug\Projet_MMehdy_LOGary.exe.config
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\bin\Debug\Projet_MMehdy_LOGary.exe
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\bin\Debug\Projet_MMehdy_LOGary.pdb
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\obj\Debug\Projet_MMehdy_LOGary.csprojAssemblyReference.cache
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\obj\Debug\Projet_MMehdy_LOGary.Form1.resources
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\obj\Debug\Projet_MMehdy_LOGary.Properties.Resources.resources
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\obj\Debug\Projet_MMehdy_LOGary.csproj.GenerateResource.cache
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\obj\Debug\Projet_MMehdy_LOGary.csproj.CoreCompileInputs.cache
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\obj\Debug\Projet_MMehdy_LOGary.exe
+C:\Users\Sohak\Desktop\Projet_MMehdy_LOGary\Projet_MMehdy_LOGary\obj\Debug\Projet_MMehdy_LOGary.pdb
